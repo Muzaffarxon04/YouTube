@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26581e93.chunk.css",
+    "main.js": "/static/js/main.1d49fcb8.chunk.js",
+    "main.js.map": "/static/js/main.1d49fcb8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5eb41bc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5eb41bc5.js.map",
+    "static/js/2.d96cd5b3.chunk.js": "/static/js/2.d96cd5b3.chunk.js",
+    "static/js/2.d96cd5b3.chunk.js.map": "/static/js/2.d96cd5b3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.26581e93.chunk.css.map": "/static/css/main.26581e93.chunk.css.map",
+    "static/js/2.d96cd5b3.chunk.js.LICENSE.txt": "/static/js/2.d96cd5b3.chunk.js.LICENSE.txt",
+    "static/media/Chanal.scss": "/static/media/Cover.8cbcf6fd.png",
+    "static/media/avatar.a8ddbafb.jpg": "/static/media/avatar.a8ddbafb.jpg",
+    "static/media/fonts.scss": "/static/media/mulish-v5-latin-regular.e353ed9a.woff",
+    "static/media/phone.69afc4b6.svg": "/static/media/phone.69afc4b6.svg",
+    "static/media/square.e1443a22.svg": "/static/media/square.e1443a22.svg",
+    "static/media/main.scss": "/static/media/yous.8ac6f3c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb41bc5.js",
+    "static/js/2.d96cd5b3.chunk.js",
+    "static/css/main.26581e93.chunk.css",
+    "static/js/main.1d49fcb8.chunk.js"
+  ]
+}
